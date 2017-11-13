@@ -1,0 +1,16 @@
+Resuming in non X mode: xrandr not found. For package install advice run: inxi --recommends
+10System:    10Host sahin-pc 10Kernel 4.13.11-1-MANJARO x86_64 10bits 64 10Desktop KDE Plasma 5.11.2
+10           10Distro Manjaro Linux
+10Machine:   10Device laptop 10System MONSTER 10product ABRA A7 V5 10serial N/A
+10           10Mobo MONSTER 10model ABRA A7 V5 10serial N/A 10UEFI MONSTER 10v 1.03.05 10date 04/01/2014
+10Battery    10BAT0 10charge 33.2 Wh 100.0% 10condition 33.2/48.8 Wh (68%)
+10           10hidpp__0 10charge N/A 10condition NA/NA Wh
+10CPU:       10Quad core Intel Core i7-4710MQ (-HT-MCP-) 10speed/max 2494/3500 MHz
+10Graphics:  10Card-1 Intel 4th Gen Core Processor Integrated Graphics Controller
+10           10Card-2 NVIDIA GM107M [GeForce GTX 850M]
+10           10Display Server N/A 10driver intel 10tty size 237x55
+10Network:   10Card-1 Intel Wireless 7260 10driver iwlwifi
+10           10Card-2 Realtek RTL8111/8168/8411 PCIE Gigabit Ethernet Controller 10driver r8168
+10Drives:    10HDD Total Size 1000.2GB (6.4% used)
+10Info:      10Processes 242 10Uptime 4 days 10Memory 1403.2/7870.4MB 10Init systemd
+10           10Client Shell wrapper 10inxi 2.3.43 
